@@ -1,0 +1,8 @@
+rsync
+openssh-client
+openssh-server
+raspberrypi-sys-mods
+rfkill
+rpi-eeprom
+userconf-pi
+

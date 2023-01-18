@@ -15,7 +15,6 @@ usb-modeswitch
 libpam-chksshpwd
 rpi-update
 libmtp-runtime
-rsync
 htop
 man-db
 policykit-1

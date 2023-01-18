@@ -1,9 +1,9 @@
 RELEASE=bullseye
-IMG_NAME=jupyterpi
-TARGET_HOSTNAME=jupyterpi
-STAGE_LIST="stage0 stage1 jupyterpi2"
+IMG_NAME=jpi
+TARGET_HOSTNAME=jpi
+STAGE_LIST="stage0 stage1 stage2-jpi"
 FIRST_USER_NAME=pi
-FIRST_USER_PASS=pi
+FIRST_USER_PASS=jpi
 DEPLOY_COMPRESSION=none
 PIGEN_DOCKER_OPTS="--net pigen --ip 10.172.0.3"
 APT_PROXY=http://10.172.0.2:3142
